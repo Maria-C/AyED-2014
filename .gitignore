@@ -26,3 +26,13 @@
 *.exe
 *.out
 *.app
+
+#Other
+*.opensdf
+*.sdf
+*.sln
+*.v12.suo
+*.ipch
+*.vcxproj
+*.filters
+
